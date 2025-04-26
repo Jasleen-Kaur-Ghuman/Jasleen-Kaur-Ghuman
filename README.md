@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am currently a physician assistant looking to transition to a data scientist career.
+I am taking a course on courseera to help me get started and familiarize myself with data science.
+I am hoping to utilize my healthcare experience to become a data scientist in a healthcare related field
+A side passion I have is sustainability and climate chage.
+
 <!--
 **Jasleen-Kaur-Ghuman/Jasleen-Kaur-Ghuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
